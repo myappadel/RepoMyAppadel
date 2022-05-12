@@ -15,6 +15,7 @@
         <item>Profesional</item>
     </string-array>
     <string-array name="provincias">
+        <item>Todas</item>
         <item>A Coruña</item>
         <item>Álava</item>
         <item>Albacete</item>

@@ -9,8 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="red">#F44336</color>
 
-    <color name="mediumColor">#456D79</color>
-    <color name="darkColor">#254853</color>
-    <color name="ligthColor">#83A1AA</color>
+    <color name="mediumColor">#2196F3</color>
+    <color name="darkColor">#044360</color>
+    <color name="ligthColor">#00BCD4</color>
     <color name="variantColor">#FF9800</color>
 </resources>

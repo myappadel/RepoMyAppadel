@@ -104,7 +104,7 @@ class MainActivity : AppCompatActivity() {
                 for(document in it.documents) {
                     val partido = document.toObject(Partido::class.java)
                     if (partido != null) {
-                        if(provinciaBuscar!=""){
+                        if(provinciaBuscar!="" && provinciaBuscar != "Todas"){
                             if(  provinciaBuscar == partido.provincia)
                                 tempPartidosList.add(partido)
                         }else{
