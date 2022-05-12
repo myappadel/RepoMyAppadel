@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jujor/AndroidStudioProjects/proyectos/antonio/app/src/main/res/layout/item_match.xml" value="0.1796875" />
+        <entry key="..\:/Users/jujor/AndroidStudioProjects/proyectos/hugo/app/src/main/res/layout/activity_detalle_partido.xml" value="0.48220064724919093" />
+        <entry key="..\:/Users/jujor/AndroidStudioProjects/proyectos/hugo/app/src/main/res/layout/activity_formulario_partido.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/jujor/AndroidStudioProjects/proyectos/hugo/app/src/main/res/layout/activity_login_screen.xml" value="0.22" />
+        <entry key="..\:/Users/jujor/AndroidStudioProjects/proyectos/hugo/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/jujor/AndroidStudioProjects/proyectos/hugo/app/src/main/res/layout/activity_sing_up_screen.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/jujor/AndroidStudioProjects/proyectos/hugo/app/src/main/res/layout/item_match.xml" value="0.3537037037037037" />
+        <entry key="..\:/Users/jujor/AndroidStudioProjects/proyectos/hugo/app/src/main/res/menu/menu_principal.xml" value="0.1796875" />
+        <entry key="..\:/Users/jujor/AndroidStudioProjects/proyectos/hugo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18055555555555555" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

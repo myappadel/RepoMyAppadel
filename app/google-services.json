@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309489671048",
+    "project_id": "myappadel",
+    "storage_bucket": "myappadel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309489671048:android:92f58267a9bea53e90783d",
+        "android_client_info": {
+          "package_name": "es.myappadel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309489671048-jmmdq0gaqpm9h5s3omj4evslg7490ojo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQBU3RHIHBj00tMHr5AKmp-mjOBbN5NdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309489671048-jmmdq0gaqpm9h5s3omj4evslg7490ojo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
