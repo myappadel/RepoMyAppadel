@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyAppadel</string>
+    <string name="app_name">PadelMatch</string>
 
     <string-array name="jugadores">
         <item>1</item>
